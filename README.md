@@ -175,8 +175,10 @@ API ini juga siap deploy ke Vercel menggunakan arsitektur serverless, sehingga d
 
 ## Langkah Instalasi dan Cara Menjalankan API
 **Clone Repository**
+```
 git clone https://github.com/<username>/shoe-laundry-ale.git
 cd shoe-laundry-ale
+```
 **Instal Dependensi**
 ```
 npm install
