@@ -188,14 +188,14 @@ SUPABASE_URL=https://<project>.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 PORT=3000
 ```
-##Jalankan API secara lokal
+**Jalankan API secara lokal**
 ```
 npm run dev
 ```
 API akan aktif di:
 localhost:3000
 
-##Uji di Postman
+**Uji di Postman**
 ```
 GET http://localhost:3000/items
 POST http://localhost:3000/items/id
